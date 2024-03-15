@@ -1,6 +1,8 @@
 [ID]
 00A01
+00A02
+
 
 [NAME]
 Bokeo Yaya
-yes yes
+mey mey
